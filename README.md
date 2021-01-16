@@ -1,4 +1,4 @@
-# RestaurantSearchApp_ReactNative
+# Restaurant Search and Food Search app in REACT-NATIVE
 
 #### An app developed in React native for searching food in *NYC*. App uses YELP API for searching food.
 
